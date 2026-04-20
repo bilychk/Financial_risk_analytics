@@ -1,0 +1,21 @@
+Period : 2023-12-29 → 2026-04-17
+Weeks  : 120
+
+─── Metrics ────────────────────────────────────────
+  Annualized Return            Luminor 50-56: 0.1079      LHV Julge: 0.1305
+  Annualized Volatility        Luminor 50-56: 0.0912      LHV Julge: 0.0730
+  Sharpe Ratio                 Luminor 50-56: 0.8454      LHV Julge: 1.3131
+  Sortino Ratio                Luminor 50-56: 0.9212      LHV Julge: 1.4670
+  Calmar Ratio                 Luminor 50-56: 0.7404      LHV Julge: 2.4534
+  Max Drawdown                 Luminor 50-56: -0.1457     LHV Julge: -0.0532
+  Beta vs Benchmark            Luminor 50-56: 0.7020      LHV Julge: 1.0000
+  Tracking Error               Luminor 50-56: 0.0789      LHV Julge: 0.0000
+  Information Ratio            Luminor 50-56: -0.2374     LHV Julge: nan
+
+─── ESG Profiles ───────────────────────────────────
+  Luminor 50-56
+    SFDR: Article 8
+    Promotes ESG characteristics; excludes controversial weapons & tobacco
+  LHV Julge
+    SFDR: Article 6
+    No formal ESG screen; broad active equity mandate
